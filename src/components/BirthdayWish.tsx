@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { HeartIcon, SparklesIcon, CakeIcon, GiftIcon } from "lucide-react";
@@ -75,7 +74,7 @@ const BirthdayWish = () => {
             </div>
             
             <h1 className="text-5xl md:text-6xl lg:text-7xl text-center font-bold mb-6 text-birthday-pink">
-              Happy Birthday, John!
+              babuuuuu
             </h1>
             
             <div className="bg-gradient-to-r from-birthday-lavender/40 to-birthday-gold/30 p-6 md:p-8 rounded-lg mb-8 shadow-inner relative">
@@ -86,7 +85,7 @@ const BirthdayWish = () => {
                 <HeartIcon className="h-6 w-6 text-birthday-pink animate-heart-beat" fill="currentColor" />
               </div>
               <p className="text-center italic font-dancing text-2xl md:text-3xl lg:text-4xl leading-relaxed text-gray-800">
-                "Wishing you a day filled with happiness and a year filled with joy. May all your dreams come true. Happy birthday John!"
+                "good morning babbuu i love you soo muchhh muahhhhh miss uuuuuuuu"
               </p>
             </div>
             
