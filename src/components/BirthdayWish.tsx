@@ -1,4 +1,4 @@
-cd "c:\Users\param\OneDrive\Desktop\projects\New folder\ypoo"
+
 import { useEffect, useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { HeartIcon, SparklesIcon, CakeIcon, GiftIcon } from "lucide-react";
