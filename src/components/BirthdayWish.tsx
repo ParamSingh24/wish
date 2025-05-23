@@ -74,7 +74,7 @@ const BirthdayWish = () => {
             </div>
 
             <h1 className="text-5xl md:text-6xl lg:text-7xl text-center font-bold mb-6 text-birthday-pink">
-              Happy Birthday
+              Happy Birthday Kratika Mam 🎉
             </h1>
 
             <div className="bg-gradient-to-r from-birthday-lavender/40 to-birthday-gold/30 p-6 md:p-8 rounded-lg mb-8 shadow-inner relative">
@@ -85,14 +85,17 @@ const BirthdayWish = () => {
                 <HeartIcon className="h-6 w-6 text-birthday-pink animate-heart-beat" fill="currentColor" />
               </div>
               <p className="text-center italic font-dancing text-2xl md:text-3xl lg:text-4xl leading-relaxed text-gray-800">
-                may god bless you
-            </div>
+                may god bless you with all the happiness and joy in the world. Mam you have been our Coordinator from 2 semesters 
+                and you have been a great support to us. We are grateful to have you as our mentor. Thank you for everything you do for us.
+                We wish you a very happy birthday and a wonderful year ahead.
+              </p>
 
-            <div className="flex justify-center">
-              <div className="flex flex-row space-x-3 animate-float">
-                <HeartIcon className="h-6 w-6 text-birthday-pink" fill="currentColor" />
-                <HeartIcon className="h-8 w-8 text-birthday-pink" fill="currentColor" />
-                <HeartIcon className="h-6 w-6 text-birthday-pink" fill="currentColor" />
+              <div className="flex justify-center">
+                <div className="flex flex-row space-x-3 animate-float">
+                  <HeartIcon className="h-6 w-6 text-birthday-pink" fill="currentColor" />
+                  <HeartIcon className="h-8 w-8 text-birthday-pink" fill="currentColor" />
+                  <HeartIcon className="h-6 w-6 text-birthday-pink" fill="currentColor" />
+                </div>
               </div>
             </div>
           </CardContent>
