@@ -74,7 +74,7 @@ const BirthdayWish = () => {
             </div>
 
             <h1 className="text-5xl md:text-6xl lg:text-7xl text-center font-bold mb-6 text-birthday-pink">
-              Happy Birthday Papa
+              Happy Birthday My Baby sakshuuu 
             </h1>
 
             <div className="bg-gradient-to-r from-birthday-lavender/40 to-birthday-gold/30 p-6 md:p-8 rounded-lg mb-8 shadow-inner relative">
@@ -85,9 +85,10 @@ const BirthdayWish = () => {
                 <HeartIcon className="h-6 w-6 text-birthday-pink animate-heart-beat" fill="currentColor" />
               </div>
               <p className="text-center italic font-dancing text-2xl md:text-3xl lg:text-4xl leading-relaxed text-gray-800">
-                May your day be filled with love, laughter, and all the joy you bring to our lives. 
-                you are a good person and you deserve all the happiness in the world. 
-                Thank you for being such an amazing father and role model. We love you so much!
+              Happy birthday, my better half! I love you so, so, so much. We are married and you are my wife, and I always dream about you. Yes, I always think about you—I’m obsessed with you sooo, sooo, sooo much. I’m preparing for our marriage, and we will marry soon, even though we are already husband and wife. You are my cutiepieee.  
+
+We will grow old together, and we will be cool parents, cool grandparents, and even cool budha-budhis. I just love you sooo much, my darling.  
+
               </p>
 
               <div className="flex justify-center">
